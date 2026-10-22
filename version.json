@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "installer_url": "https://github.com/mhuradz/radz-pixel-studio-releases/releases/download/v1.0.0/RadzPixelStudio-1.0.0-Setup.exe",
+  "pub_date": "2026-10-22T00:00:00Z",
+  "changelog": "• Built-in Update Engine: Automatic background detection with seamless one-click or on-restart install.\n• Zero-Dependency Installer: Fully self-contained Windows setup with bundled VC runtime libraries.\n• Aurora Silk & Dark Canvas: Sleek Photoshop-parity interface with centered splash screen and instant presets.\n• Native Creative Engine: High-performance GPU rasterization, full PSD import/export, and non-destructive adjustments."
+}
